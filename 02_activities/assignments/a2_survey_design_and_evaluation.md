@@ -125,7 +125,7 @@ Electronic Questionnaire (EQ) and Computer-Assisted Telephone Interviewing (CATI
 Collection Period: September 4 to December 28, 2018.
 Data Release: January 26, 2021
 
-7. Response rate: 52.4%
+7. Response rate: 40.9%
 
 8. Weights:
 The survey used weighting factors to ensure estimates represent the entire target population, as each respondent represents multiple non-sampled persons
@@ -162,12 +162,13 @@ General Social Survey (Cycle 33): Giving, Volunteering and Participating Public 
 🚨 **Please review our [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md)** 🚨 for detailed instructions on how to format, branch, and submit your work. Following these guidelines is crucial for your submissions to be evaluated correctly.
 
 ### Submission Parameters:
-* Submission Due Date: `23:59 - 19/10/2025`
-* The branch name for your repo should be: `assignment-2`
-* What to submit for this assignment:
-    * This markdown file (a2_survey_design_and_evaluation.md) should be populated and should be the only change in your pull request.
-* What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/sampling/pull/<pr_id>`
-    * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
+
+- Submission Due Date: `23:59 - 19/10/2025`
+- The branch name for your repo should be: `assignment-2`
+- What to submit for this assignment:
+  - This markdown file (a2_survey_design_and_evaluation.md) should be populated and should be the only change in your pull request.
+- What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/sampling/pull/<pr_id>`
+  - Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
 
