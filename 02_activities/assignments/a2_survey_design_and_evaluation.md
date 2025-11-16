@@ -8,14 +8,15 @@ The goal of this assignment is to practice developing and evaluating sampling ma
 
 Select one of the scenarios below and design a survey to meet the need(s) outlined in the prompt.
 
-1.	In two to three sentences, describe the purpose of your survey
-2.	Describe your target population, sampling frame, sampling units, and overall sampling strategy.
-3.	Write a 5-10 question survey to address your chosen scenario below.
+1. In two to three sentences, describe the purpose of your survey
+2. Describe your target population, sampling frame, sampling units, and overall sampling strategy.
+3. Write a 5-10 question survey to address your chosen scenario below.
 
 ##### Scenarios
-1.	You work in the Human Resources Department at a large tech company. Over the past few months, the company has been experiencing a high turnover rate across many of its departments, specifically within the entry- and lower-level positions. The company wishes to understand why this turnover is happening, and what changes need to occur to improve employee satisfaction.
-2.	You work for a Canadian national political party during a federal election. Throughout the campaign period, your party has seen relatively high approval ratings, but an opposing party is also polling favorably and may still have a chance to win the election. You are one month away from the election and you want to understand what voters want from your party and its leader in order to maintain your lead and eventually win the election.
-3.	You are a student researcher in the sociology department at the University of Toronto. You are working on a research project that concerns the relationship between music taste and age. This involves both comparisons between different people of different ages and comparisons of the same individual at different ages during their lifetime. You wish to understand to what extent age influences music taste, specifically as it relates to perceptions of popular music. Your results will be written into an academic paper that you hope to publish.
+
+1. You work in the Human Resources Department at a large tech company. Over the past few months, the company has been experiencing a high turnover rate across many of its departments, specifically within the entry- and lower-level positions. The company wishes to understand why this turnover is happening, and what changes need to occur to improve employee satisfaction.
+2. You work for a Canadian national political party during a federal election. Throughout the campaign period, your party has seen relatively high approval ratings, but an opposing party is also polling favorably and may still have a chance to win the election. You are one month away from the election and you want to understand what voters want from your party and its leader in order to maintain your lead and eventually win the election.
+3. You are a student researcher in the sociology department at the University of Toronto. You are working on a research project that concerns the relationship between music taste and age. This involves both comparisons between different people of different ages and comparisons of the same individual at different ages during their lifetime. You wish to understand to what extent age influences music taste, specifically as it relates to perceptions of popular music. Your results will be written into an academic paper that you hope to publish.
 
 ### Part B - Survey Evaluation:
 
@@ -25,7 +26,7 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 2. Sample size
 3. Target population
 4. Sampling frame
-5. Survey mode(s) 
+5. Survey mode(s)
 6. Timeline
 7. Response rate
 8. Weights
@@ -35,35 +36,68 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 12. Limitations, known biases, etc
 13. Link to documentation and any additional sources used
 
-
 # Your Changes
 
-## Part A - Survey Design: 
+## Part A - Survey Design:
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `3`
 
 Describe the purpose of your survey:
+
 ```
-write your answer here...
+The survey's primary purpose is to investigate the dual influence of chronological age and generational effects on perceptions of popular music. The aim is to determine if an individual's appreciation for music genres changes as they age, and whether their taste is defined by the age they were when specific music became popular. The ultimate goal is to generate publishable, quantitative data for an academic paper on social trends in music consumption.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
+
 ```
-write your answer here...
+Target Population: All individuals affiliated with the University of Toronto. This includes students, faculty, and staff.
+
+Sampling Frame: The complete list of active U of T email addresses (or similar directory access provided by the university's central administration)
+
+Sampling Units: Individual U of T affiliates (a single person).
+
+Overall Sampling Strategy: Stratified Random Sampling with age as the stratification variable. We will divide the population into non-overlapping age groups (strata). For example, 14-25, 26-40, 41-55, etc., and draw a Simple Random Sample (SRS) from each stratum. This ensures adequate representation across all key generational groups for cross-sectional analysis.
 ```
 
 Your 5-10 question survey:
+
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. Which best describes your primary affiliation with U of T? (Student, Faculty, Staff)
+A. Student
+B. Faculty
+C. Staff
+
+2. What is your current age range (in years)?
+A. 14-25
+B. 26-40
+C. 41-55
+D. 56-70
+
+3. Most popular music released today is high-quality and interesting.
+Strongly agree [], agree [], neutral [], disagree [], strongly disagree []
+
+4. As I get older, I find it harder to discover new popular music I genuinely enjoy.
+Strongly agree [], agree [], neutral [], disagree [], strongly disagree []
+
+5. I listen to popular music that was released before I was 18 more often than music released in the last 5 years.
+Strongly agree [], agree [], neutral [], disagree [], strongly disagree []
+
+6. The music that became popular when I was 18-25 years old is the music that truly defines my taste.
+Strongly agree [], agree [], neutral [], disagree [], strongly disagree []
+
+7. My favorite music genre has changed significantly since I was 25 years old.
+Strongly agree [], agree [], neutral [], disagree [], strongly disagree []
+
+8. It is important to me to keep up with current Top 40 popular music trends.
+Strongly agree [], agree [], neutral [], disagree [], strongly disagree []
+
+9. On average, how many hours per week do you actively listen to music?
+A. Less than 10 hours
+B. Less than 20 hours
+C. More than 30 hours
+D. More than 40 hours
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,28 +105,73 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+
+persons aged 15 years and over living in private households in Canada, excluding residents of the Yukon, Northwest Territories and Nunavut and full time residents of institutions
+
+
+1. Sample type: Two-stage probability sample with a cross-sectional design (2-stage/phase Stratified Sampling).
+
+2. Sample size: A field sample of approximately 50,000 units was used.
+
+3. Target population:Persons aged 15 years and over living in private households in Canada, excluding residents of the Yukon, Northwest Territories and Nunavut and full time residents of institutions
+
+4. Sampling frame:
+Combined frame from the Census and administrative data, integrated with Statistics Canada's dwelling frame. Including landline and cellular telephone numbers for better/higher coverage
+
+5. Survey mode(s):
+Electronic Questionnaire (EQ) and Computer-Assisted Telephone Interviewing (CATI). Respondents could complete the survey online or over the phone with an interviewer
+
+6. Timeline:
+Collection Period: September 4 to December 28, 2018.
+Data Release: January 26, 2021
+
+7. Response rate: 40.9%
+
+8. Weights:
+The survey used weighting factors to ensure estimates represent the entire target population, as each respondent represents multiple non-sampled persons
+
+9. Data processing:
+The study used a structured, generalized system (SSPE). Error detection was integrated into the CATI system and head office editing for flow, consistency, and range checks
+
+10. Cleaning, imputation:
+A donor imputation method was primarily used, finding records with similar characteristics to fill in missing data. Applied to income, volunteering, and donation data
+
+11. Sources of error:
+- Sampling Error: Estimated and managed through standard errors; estimates with high error are flagged or suppressed.
+- Non-Sampling Error: Includes coverage, non-response, and processing errors
+
+12. Limitations, known biases:
+- Coverage Bias: Excludes households without phones and institutional residents (affects seniors data).
+- Non-response Bias: Overall response rate was approximately 80% for past GSS cycles; non-respondents may differ from respondents.
+- Recall Bias: Accuracy of responses depends on respondents' memory
+
+13. Link to documentation and any additional sources used:
+https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234
 ```
+
+General Social Survey (Cycle 33): Giving, Volunteering and Participating Public Use Microdata File Documentation and User Guide, 2018
 
 ## Rubric
 
--	All required components are present and complete **Complete / Incomplete**
--	Choice of sampling strategy for Part A is justified and related to survey purpose **Complete / Incomplete**
--	Information for Part B is complete and correct **Complete / Incomplete**
+- All required components are present and complete **Complete / Incomplete**
+- Choice of sampling strategy for Part A is justified and related to survey purpose **Complete / Incomplete**
+- Information for Part B is complete and correct **Complete / Incomplete**
 
 ## Submission Information
 
 🚨 **Please review our [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md)** 🚨 for detailed instructions on how to format, branch, and submit your work. Following these guidelines is crucial for your submissions to be evaluated correctly.
 
 ### Submission Parameters:
-* Submission Due Date: `23:59 - 19/10/2025`
-* The branch name for your repo should be: `assignment-2`
-* What to submit for this assignment:
-    * This markdown file (a2_survey_design_and_evaluation.md) should be populated and should be the only change in your pull request.
-* What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/sampling/pull/<pr_id>`
-    * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
+
+- Submission Due Date: `23:59 - 19/10/2025`
+- The branch name for your repo should be: `assignment-2`
+- What to submit for this assignment:
+  - This markdown file (a2_survey_design_and_evaluation.md) should be populated and should be the only change in your pull request.
+- What the pull request link should look like for this assignment: `https://github.com/<your_github_username>/sampling/pull/<pr_id>`
+  - Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
+
 - [ ] Create a branch called `assignment-2`.
 - [ ] Ensure that the repository is public.
 - [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
